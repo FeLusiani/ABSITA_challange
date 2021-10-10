@@ -1,5 +1,5 @@
 # ABSITA_challange
-Solving the ABSITA challange using LSTMs and italian BERT.
+Solving the [ABSITA challange](http://sag.art.uniroma2.it/absita/) using LSTMs and italian BERT.
 
 For now, only the project report is public. [**Read the pdf document here.**](./ABSITA_Lusiani_Bersani.pdf)
 
